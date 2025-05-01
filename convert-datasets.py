@@ -13,7 +13,7 @@ import random
 import shutil
 
 # === CONFIG: SET TO YOUR PROJECT FOLDER ===
-BASE_DIR = Path("C:/Users/travi/Code/Stress-anxiety")
+BASE_DIR = Path("______________________________________") # Adjust this path to your project folder
 RAF_DIR = BASE_DIR / "raf-dataset" / "DATASET"
 FER_DIR = BASE_DIR / "fer-dataset"
 OUTPUT_DIR = BASE_DIR / "output-stress-split"
